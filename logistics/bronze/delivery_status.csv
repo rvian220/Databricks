@@ -1,0 +1,5 @@
+status,status_description,is_completed
+Delivered,Shipment successfully delivered,Yes
+In Transit,Shipment currently moving,No
+Delayed,Shipment delayed due to issues,No
+Cancelled,Shipment cancelled,No

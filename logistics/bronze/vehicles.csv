@@ -1,0 +1,5 @@
+vehicle_id,vehicle_type,capacity_kg,fuel_type
+V001,Truck,5000,Diesel
+V002,Truck,7000,Diesel
+V003,Van,2000,Petrol
+V004,Mini Truck,3000,Diesel

@@ -1,0 +1,9 @@
+order_id,order_date,product_category,order_value,payment_method
+O101,2025-12-30,Electronics,12000,Credit Card
+O102,2025-12-31,Furniture,25000,UPI
+O103,2026-01-01,Clothing,5000,Debit Card
+O104,2026-01-02,Appliances,18000,Credit Card
+O105,2026-01-03,Books,2000,UPI
+O106,2026-01-04,Electronics,15000,Cash
+O107,2026-01-05,Furniture,30000,Credit Card
+O108,2026-01-06,Clothing,7000,UPI

@@ -1,0 +1,10 @@
+shipment_id,order_id,customer_id,origin_city,destination_city,shipment_date,delivery_date,status,vehicle_id,shipping_cost
+S001,O101,C001,Chennai,Bangalore,2026-01-01,2026-01-03,Delivered,V001,500
+S002,O102,C002,Mumbai,Delhi,2026-01-02,2026-01-05,Delivered,V002,700
+S003,O103,C003,Hyderabad,Pune,2026-01-03,,In Transit,V003,600
+S004,O104,C004,Delhi,Kolkata,2026-01-05,2026-01-09,Delayed,V002,900
+S005,O105,C005,Bangalore,Chennai,2026-01-06,2026-01-08,Delivered,V001,450
+S006,O106,C006,Pune,Mumbai,2026-01-07,,In Transit,V004,650
+S007,O107,C007,Kolkata,Delhi,2026-01-08,2026-01-12,Delivered,V002,800
+S008,O108,C008,Chennai,Hyderabad,2026-01-09,2026-01-11,Delivered,V003,550
+S002,O102,C002,Mumbai,Delhi,2026-01-02,2026-01-05,Delivered,V002,700
