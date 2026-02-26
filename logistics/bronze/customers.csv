@@ -1,0 +1,9 @@
+customer_id,customer_name,gender,city,state,customer_type
+C001,Rahul Sharma,Male,Chennai,Tamil Nadu,Regular
+C002,Priya Verma,Female,Mumbai,Maharashtra,Premium
+C003,Amit Patel,Male,Hyderabad,Telangana,Regular
+C004,Sneha Iyer,Female,Delhi,Delhi,Premium
+C005,Vikram Rao,Male,Bangalore,Karnataka,Regular
+C006,Neha Singh,Female,Pune,Maharashtra,Regular
+C007,Arjun Das,Male,Kolkata,West Bengal,Premium
+C008,Kavya Nair,Female,Chennai,Tamil Nadu,Regular
